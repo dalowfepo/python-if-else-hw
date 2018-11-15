@@ -1,2 +1,2 @@
 # python-if-else-hw
-python hw
+python 隨堂練習
